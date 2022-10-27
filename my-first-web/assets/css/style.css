@@ -1,0 +1,92 @@
+body {
+    font-family: 'Merriweather';
+    margin: 0;
+  }
+  
+  h1, h2, p {
+    margin: 0;
+  }
+  
+  #top {
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20210912/pngtree-fruity-daifuku-mochi-ice-cream-jam-dessert-color-image_863960.jpg);
+    color: rgb(0, 27, 71);
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+  }
+  
+  #top h1 {
+    margin-bottom: 10px;
+  }
+  
+  #bottom {
+    text-align: center;
+    font-weight: 700;
+    background-color: rgb(239, 126, 233);
+    line-height: 30px;
+    margin-top: 30px;
+  }
+    
+  .wrapper {
+    position: relative;
+  }
+  
+  #main {
+    padding: 0 320px 0 20px;
+    line-height: 25px;
+  }
+  
+  #main h1, #main h2{
+    margin: 10px 0 15px
+  }
+  
+  #main img {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #2c3e50;
+    border-radius: 20px 0 20px 0;
+  }
+  
+  .keyword {
+    font-style: italic;
+  }
+  #sidebar {
+    position: absolute;
+    right: 15px;
+    top: 0;
+    width: 270px ;
+    font-size: 14px;
+    border: 2px dashed #bdc3c7;
+    padding: 0 0 20px 20px;
+  }
+  
+  #sidebar {
+    position: absolute;
+    right: 15px;
+    top: 0;
+    width: 270px;
+    font-size: 14px;
+    border: 2px dashed #bdc3c7;
+    padding: 0 0 20px 20px;
+  }
+  
+  #sidebar img {
+    max-width: 100% ;
+      margin-top: 20px;
+  }
+  
+  a {
+    color: #3498db;
+  }
+  
+  a:hover {
+    color: #e74c3c;
+  }
+  html {
+    background: url(https://i.pinimg.com/originals/a3/16/26/a316261703eb2fcee3a0d6f492efcd1a.jpg);
+      background-size: cover;
+  
+  }
+      
+  
+  
